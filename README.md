@@ -5,9 +5,9 @@
 _The purpose of this application is to check whether or not a completed 9 x 9 Sudoku board is legal._
 
 ## Specs
-* _Spec: _
-  * Input: 
-  * Output: 
+* _Spec: The application should be able to make a space object_
+  * Input: X and Y coordinates and a number
+  * Output: Space object
 
 ## Setup/Installation Requirements
 _Clone this repository._
