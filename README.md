@@ -9,6 +9,10 @@ _The purpose of this application is to check whether or not a completed 9 x 9 Su
   * Input: X and Y coordinates and a number
   * Output: Space object
 
+* _Spec: The application should be able to save x and y coordinates and a value to a space object_
+  * Input: X coordinate: 5, Y coordinate: 6, Value: 6
+  * Output: Space (5, 6, 6)
+
 ## Setup/Installation Requirements
 _Clone this repository._
 
